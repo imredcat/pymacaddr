@@ -69,9 +69,3 @@ dialog = MyDialog()
 dialog.show()
 app.exec_()
 
-
-출처: http://webee.tistory.com/entry/Python-맥주소를-가져오는-GUI-프로그램 [Red Roof Garage]
-
-출처: http://webee.tistory.com/entry/Python-맥주소를-가져오는-GUI-프로그램 [Red Roof Garage]
-
-출처: http://webee.tistory.com/entry/Python-맥주소를-가져오는-GUI-프로그램 [Red Roof Garage]
